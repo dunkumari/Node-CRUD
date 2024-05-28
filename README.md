@@ -12,7 +12,7 @@ This is a RESTful API built using Node.js that allows users to perform CRUD (Cre
 - RESTful Architecture: Adheres to REST principles for predictable and intuitive API design.
 
 
-## TO DO
+## Teck Stack
 
 - Node.js
 - Express.js
